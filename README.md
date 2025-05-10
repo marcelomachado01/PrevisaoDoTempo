@@ -1,7 +1,6 @@
 Aplicativo de Previsão do Tempo
 
-[![GitHub license](https://img.shields.io/github/license/seu-usuario/weather-app)](https://github.com/seu-usuario/weather-app/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/seu-usuario/weather-app)](https://github.com/seu-usuario/weather-app/stargazers)
+
 
 Um aplicativo de previsão do tempo responsivo com temas claro/escuro, utilizando a API OpenWeatherMap.
 
